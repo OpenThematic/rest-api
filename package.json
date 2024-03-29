@@ -1,0 +1,19 @@
+{
+  "name": "thematic-rest-api",
+  "version": "0.0.0",
+  "description": "Backend for running language models and providing functionality to the web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenThematic/rest-api.git"
+  },
+  "author": "Kentaro Hayashida <kentaro@hayashida.se> (https://github.com/Avokadomos)",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/OpenThematic/rest-api/issues"
+  },
+  "homepage": "https://github.com/OpenThematic/rest-api#readme"
+}
